@@ -126,7 +126,7 @@ Mudanças serão divulgadas por e-mail, no Discord ou no site oficial, sendo res
 Para dúvidas, solicitações ou suporte, entre em contato pelos nossos canais oficiais:
 
 - 📧 E-mail: [atendimento.domain@gmail.com](mailto:atendimento.domain@gmail.com)  
-- 🌐 Site: [codexlabs.dev](https://huggingface.co/spaces/S1ngul4rity/CodeXLabs) 
+- 🌐 Site: [hugginface.co/spaces/S1ngul4rity/CodeXLabs](https://huggingface.co/spaces/S1ngul4rity/CodeXLabs) 
 - 📱 Discord: [discord.gg/codexlabs](https://discord.gg/codexlabs)
 
 ---
